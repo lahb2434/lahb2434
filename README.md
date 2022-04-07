@@ -1,4 +1,4 @@
-# ✌️ <span style="color:green">CHRIS HOUGHTON</span> 🤘
+# ✌️ <green>CHRIS HOUGHTON</green> 🤘
 
 Dauntless Full Stack Software Engineer with a lust for knowledge and truth. 
  
@@ -43,18 +43,6 @@ Created by [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp
 ## SKILLS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby" title="Ruby" alt="" title="" width="40" height="40"/>&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" title="Rails" width="40" height="40"/>&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" title="Python" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" title="SQLite" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" title="HTML5" width="40" height="40" />
-            
-          
-          
-          
-          
-
-          
-
-
-
-
-
 
 <!--
 **lahb2434/lahb2434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,3 +58,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+    green{color: green}
+    </style>
