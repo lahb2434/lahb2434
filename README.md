@@ -25,11 +25,13 @@ Created by [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp
 ## PROJECTS
 ___
 
-### 💪 Fitness Buddy 
+#### 💪 Fitness Buddy [frontend](https://github.com/lahb2434/fitness-buddy) | [demo](https://youtu.be/wBvQsuWaJxE)<br>Workout Program Builder that allows you to build training programs and track progress | Sinatra
 
-### 🤑 Banking Pow Pow
+#### 🤑 Banking Pow Pow [frontend](https://github.com/lahb2434/banking_pow_pow) | [demo](https://youtu.be/0o3QZLG5ce4)<br>Simulated Online Banking Experience, buy a house, take out a loan, get a credit card and into debt fast! | Ruby on Rails
 
-### 🎃 Spooky Season
+#### 🎃 Spooky Season [frontend](https://github.com/lahb2434/spooky_season_frontend) | [demo](https://youtu.be/xLUurQz7oj4)<br>Halloween is upon us! Drag and Drop, resize, and manipulate spooky elements to create a halloween greeting card. | Javascript and Ruby on Rails
+
+#### 🎸 Tube Screamer [frontend](https://github.com/lahb2434/tube-screamer) | [demo](https://youtu.be/12V_r-n3oWQ)<br>Play guitar with your laptop and modify the sound using built in effects! Stream music over Spotify and play with your favorite bands. | React and Express
 
 
 
