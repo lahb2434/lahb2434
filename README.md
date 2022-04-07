@@ -1,14 +1,10 @@
-#🤘 CHRIS HOUGHTON 🤘
----
+# ✌️ <green>CHRIS HOUGHTON</green> 🤘
 
 Dauntless Full Stack Software Engineer with a lust for knowledge and truth. 
  
 The convergence of art and science led me to study the mystical world of Software Development. Captivated by the methodical systematic structure, in contrast to the implementation as an artistic personal creation.
 
-Background in oil and gas drilling. 
-A dynamic stay on your toes, fast paced, high risk, better be good at customer service, leadership, team building, safety training, while being an onsite human resources, health, safety and environmental advisor. 
-A master at troubleshooting a myriad of constant problems including electrical, mechanical, and tech with limited or no support. While being an expert in geology, hole geometry and fluid dynamics. 
-And a liaison to countless involved investors, consultants and support companies.
+Background in oil and gas drilling.<br> A dynamic stay on your toes, fast paced, high risk, better be good at customer service, leadership, team building, safety training, an onsite human resources, health, safety and environmental advisor.<br> A master at troubleshooting a myriad of constant problems including electrical, mechanical, and tech with limited or no support.<br> An expert in geology, hole geometry and fluid dynamics.<br> And a liaison to countless involved investors, consultants and support companies.<br> 
 Phew!
 
 Approaching everything with an analytical and inquisitive mind, a knack for constant study of the revolving world, and receptive and observant qualities that give me an edge intuitively.
@@ -17,14 +13,25 @@ Valuing diveristy and inclusion, innovation comes from different points of persp
 
 Holding logic and reason, critical objective based thinking as strongest virtue.
 
-Doggo lover, metal music connoisseur, gastronomist, tattoo collector, and anime fiend.
+Doggo lover, metal music connoisseur, gastronomist, tattoo collector, and anime fiend.<br> 
 All things in moderation except coffee.
 
-CURRENTLY WORKING ON
----
+## CURRENTLY WORKING ON
+___
 
-[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
-Create by [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/#instructor-1)
+[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)<br>
+Created by [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/#instructor-1)
+
+## PROJECTS
+___
+
+### 💪 Fitness Buddy 
+
+### 🤑 Banking Pow Pow
+
+### 🎃 Spooky Season
+
+
 
 
 
@@ -44,3 +51,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+green { color: green }
+red { color: red }
+yellow { color: yellow }
+</style>
