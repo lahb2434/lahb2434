@@ -1,4 +1,4 @@
-Chris Houghton 
+🤘 CHRIS HOUGHTON 🤘
 ---
 
 Dauntless Full Stack Software Engineer with a lust for knowledge and truth. 
