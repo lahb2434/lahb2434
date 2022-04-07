@@ -17,13 +17,11 @@ Doggo lover, metal music connoisseur, gastronomist, tattoo collector, and anime 
 All things in moderation except coffee.
 
 ## CURRENTLY WORKING ON
-___
 
 [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)<br>
 Created by [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/#instructor-1)
 
 ## PROJECTS
-___
 
 #### 💪 Fitness Buddy [frontend](https://github.com/lahb2434/fitness-buddy) | [demo](https://youtu.be/wBvQsuWaJxE)<br>Workout Program Builder that allows you to build training programs and track progress | Sinatra
 
@@ -34,33 +32,17 @@ ___
 #### 🎸 Tube Screamer [frontend](https://github.com/lahb2434/tube-screamer) | [demo](https://youtu.be/12V_r-n3oWQ)<br>Play guitar with your laptop and modify the sound using built in effects! Stream music over Spotify and play with your favorite bands. | React and Express
 
 ## CONTACT
-___
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/christopher-rean-houghton/)&nbsp; &nbsp; &nbsp;   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>](https://twitter.com/likeahumanbomb)&nbsp; &nbsp; &nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/christopher-rean-houghton/)&nbsp; &nbsp; &nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>](https://twitter.com/likeahumanbomb)&nbsp; &nbsp; &nbsp;
 
 ## BlOG
-___
 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968854.png" width="40" height="40"/>](https://chrishoughton2434.medium.com/)&nbsp; &nbsp; &nbsp;
 
           
 ## SKILLS
-___
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby" title="Ruby" alt="" title="" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" title="Rails" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" title="Python" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" title="SQLite" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby" title="Ruby" alt="" title="" width="40" height="40"/>&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" title="Rails" width="40" height="40"/>&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" title="Python" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" title="SQLite" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp; &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" title="HTML5" width="40" height="40" />
             
           
           
