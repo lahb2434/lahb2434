@@ -1,4 +1,4 @@
-# ✌️ <green>CHRIS HOUGHTON</green> 🤘
+# ✌️ <span style="color:green">CHRIS HOUGHTON</span> 🤘
 
 Dauntless Full Stack Software Engineer with a lust for knowledge and truth. 
  
@@ -33,6 +33,22 @@ ___
 
 #### 🎸 Tube Screamer [frontend](https://github.com/lahb2434/tube-screamer) | [demo](https://youtu.be/12V_r-n3oWQ)<br>Play guitar with your laptop and modify the sound using built in effects! Stream music over Spotify and play with your favorite bands. | React and Express
 
+## CONTACT
+___
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/christopher-rean-houghton/)&nbsp; &nbsp; &nbsp;   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>](https://twitter.com/likeahumanbomb)&nbsp; &nbsp; &nbsp;
+
+## BlOG
+___
+
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968854.png" width="40" height="40"/>](https://chrishoughton2434.medium.com/)&nbsp; &nbsp; &nbsp;
+
+          
+          
+
+
+## SKILLS
+___
 
 
 
@@ -53,8 +69,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-green { color: green }
-red { color: red }
-yellow { color: yellow }
-</style>
