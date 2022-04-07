@@ -1,4 +1,4 @@
-Chris Houghton df
+Chris Houghton 
 ---
 
 Dauntless Full Stack Software Engineer with a lust for knowledge and truth. 
@@ -18,6 +18,7 @@ Valuing diveristy and inclusion, innovation comes from different points of persp
 Holding logic and reason, critical objective based thinking as strongest virtue.
 
 Doggo lover, metal music connoisseur, gastronomist, tattoo collector, and anime fiend.
+All things in moderation except coffee.
 
 
 <!--
