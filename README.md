@@ -1,4 +1,4 @@
-# ✌️ <green>CHRIS HOUGHTON</green> 🤘
+# ✌️ CHRIS HOUGHTON 🤘
 
 Dauntless Full Stack Software Engineer with a lust for knowledge and truth. 
  
@@ -58,7 +58,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-    green{color: green}
-    </style>
