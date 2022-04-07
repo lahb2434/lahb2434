@@ -4,7 +4,7 @@ Dauntless Full Stack Software Engineer with a lust for knowledge and truth.
  
 The convergence of art and science led me to study the mystical world of Software Development. Captivated by the methodical systematic structure, in contrast to the implementation as an artistic personal creation.
 
-Background in oil and gas drilling.<br> A dynamic stay on your toes, fast paced, high risk, better be good at customer service, leadership, team building, safety training, an onsite human resources, health, safety and environmental advisor.<br> A master at troubleshooting a myriad of constant problems including electrical, mechanical, and tech with limited or no support.<br> An expert in geology, hole geometry and fluid dynamics.<br> And a liaison to countless involved investors, consultants and support companies.<br> 
+Background in oil and gas drilling.<br> A dynamic stay on your toes, fast paced, high risk, better be good at customer service, leadership, team building, safety training.<br> An onsite human resources, health, safety and environmental advisor.<br> A master at troubleshooting a myriad of constant problems including electrical, mechanical, and tech with limited or no support.<br> An expert in geology, hole geometry and fluid dynamics.<br> And a liaison to countless involved investors, consultants and support companies.<br> 
 Phew!
 
 Approaching everything with an analytical and inquisitive mind, a knack for constant study of the revolving world, and receptive and observant qualities that give me an edge intuitively.
