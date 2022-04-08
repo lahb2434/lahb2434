@@ -24,7 +24,7 @@ Created by [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp
 ## PROJECTS
 
 #### 💪 Fitness Buddy [frontend](https://github.com/lahb2434/fitness-buddy) | [demo](https://youtu.be/wBvQsuWaJxE)<br>
-Workout Program Builder that allows you to build training programs and track progress | Sinatra
+Workout program builder that allows you to build training programs and track progress | Sinatra
 
 #### 🤑 Banking Pow Pow [frontend](https://github.com/lahb2434/banking_pow_pow) | [demo](https://youtu.be/0o3QZLG5ce4)<br>
 Simulated Online Banking Experience, buy a house, take out a loan, get a credit card and into debt fast! | Ruby on Rails
